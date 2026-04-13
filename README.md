@@ -23,3 +23,12 @@ From a broader perspective, this script illustrates how simple tools can yield p
 Moreover, the script is highly extensible. By adding more parameters to the API request, one could fetch humidity, wind speed, or precipitation data. These could be plotted alongside temperature to create a comprehensive weather dashboard. With minor modifications, the script could save plots as PNG files, integrate with web applications, or even automate daily updates. This adaptability makes it a strong foundation for more advanced projects.
 
 In conclusion, this Python script is a concise yet powerful demonstration of how to bridge the gap between raw data and actionable insights. It showcases the essential workflow: **fetch data from an API, preprocess it with pandas, and visualize it with Matplotlib.** The choice of Open‑Meteo ensures accessibility, while the focus on Mumbai provides a concrete example. By following this template, one can build more sophisticated dashboards, expand to multiple variables, or apply similar techniques to other domains such as finance, health, or transportation. Ultimately, the script embodies the essence of data science: transforming information into understanding through code and visualization.
+
+
+
+#OUTPUT
+
+https://github.com/praveen13966/API-INTEGRATION-AND-DATA-VISUALIZATION/blob/main/Screenshot%202026-04-13%20120655.png?raw=true
+
+
+
